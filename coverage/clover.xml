@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743613846216" clover="3.2.0">
+  <project timestamp="1743613846216" name="All files">
+    <metrics statements="28" coveredstatements="21" conditionals="4" coveredconditionals="1" methods="13" coveredmethods="7" elements="45" coveredelements="29" complexity="0" loc="28" ncloc="28" packages="2" files="8" classes="8"/>
+    <package name="Components">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+      <file name="Contact.jsx" path="C:\Snackers\Snackers\src\Components\Contact.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+      </file>
+      <file name="Header.jsx" path="C:\Snackers\Snackers\src\Components\Header.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="Rest_card.jsx" path="C:\Snackers\Snackers\src\Components\Rest_card.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="Sum.jsx" path="C:\Snackers\Snackers\src\Components\Sum.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="20" coveredstatements="13" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="2"/>
+      <file name="appStore.jsx" path="C:\Snackers\Snackers\src\utils\appStore.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="cartSlice.jsx" path="C:\Snackers\Snackers\src\utils\cartSlice.jsx">
+        <metrics statements="7" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="constants.jsx" path="C:\Snackers\Snackers\src\utils\constants.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="useOnlineStatus.jsx" path="C:\Snackers\Snackers\src\utils\useOnlineStatus.jsx">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
