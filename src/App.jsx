@@ -7,7 +7,7 @@ import Header from './Components/Header'
 import {Provider} from 'react-redux'
 
 import { Outlet } from 'react-router-dom'
-import appStore from './utils/AppStore'
+import appStore from './utils/appStore'
 
 
 
